@@ -44,40 +44,44 @@
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java" />
   <img src="https://skillicons.dev/icons?i=php" height="35" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" />
-
-<h5>Collaboration is what drives great ideas. Reach out and let’s create something extraordinary! 😊</h5>
 </div>
+
+<div align="center">
+  <h5>Collaboration is what drives great ideas. Reach out and let's create something extraordinary! 😊</h5>
+</div>
+
+<hr>
 
 <div align="center">
   <!-- GitHub Stats Card with light/dark theme -->
   <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=jpbernucio&text_bold=false&show_icons=true&theme=vue-dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&theme=vue-dark&hide_border=false"
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jpbernucio&text_bold=false&show_icons=true&theme=vue"
+    srcset="https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&theme=vue&hide_border=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api?username=jpbernucio"
+      src="https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&theme=vue"
+      alt="GitHub Stats"
     />
   </picture>
 
   <!-- Top Languages Card with light/dark theme -->
   <picture>
     <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&langs_count=8&card_width=310&theme=vue-dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&langs_count=8&theme=vue-dark&hide_border=false"
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&langs_count=8&card_width=310&theme=vue"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&langs_count=8&theme=vue&hide_border=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&langs_count=8&theme=vue"
+      alt="Top Languages"
     />
   </picture>
 </div>
