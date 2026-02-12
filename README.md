@@ -1,58 +1,91 @@
-<p>🌱 I’m a final-semester student in <a href="https://fatecitapira.cps.sp.gov.br/desenvolvimento-de-software-multiplatforma/"><strong>Multiplatform Software Development</strong></a> at <a href="https://www.linkedin.com/school/faculdade-estadual-de-tecnologia-de-itapira-ogari-de-castro-pacheco/"><strong>FATEC Itapira "Ogari de Castro Pacheco"</strong></a>, eager to launch my career as a developer. Through hands-on projects simulating real-world challenges, I’ve honed my ability to transform ideas into functional, user-focused solutions. I’m seeking my first opportunity to contribute code, creativity, and collaboration to innovative teams.</p>
+## Hi there! 👋
 
-<p>🚀 My education has equipped me with a versatile skill set across <strong>web development</strong> (with a passion for <strong>front-end</strong>), mobile apps, databases, and cloud computing basics. Semester-long integrative projects taught me to blend theory with practice, mastering concepts like:</p>
-<ul>
-  <li>Agile methodologies (Scrum)</li>
-  <li>Automated testing for robust code</li>
-  <li>Software engineering best practices</li>
-</ul>
+I'm a **Junior Full Stack Developer** specializing in the **JavaScript/TypeScript ecosystem** — React.js, Next.js, Node.js, PostgreSQL, and MongoDB. I hold a degree in [**Multiplatform Software Development**](https://fatecitapira.cps.sp.gov.br/desenvolvimento-de-software-multiplatforma/) from [**FATEC Itapira**](https://www.linkedin.com/school/faculdade-estadual-de-tecnologia-de-itapira-ogari-de-castro-pacheco/).
 
-<p>💻 I thrive on crafting intuitive, visually appealing interfaces that balance aesthetics and functionality. My go-to tools include modern languages and frameworks that enable rapid, high-quality development. I’m always expanding my skill set, exploring new technologies to build dynamic websites, mobile apps, and more. Check out my pinned repositories to see my latest work!</p>
+During my internship, I delivered two end-to-end solutions — from zero to production — earning direct recognition from executive leadership for their operational impact.
 
-<p>🌟 I’m excited to collaborate on projects that solve problems, connect people, or simplify lives. My GitHub is my portfolio, showcasing my growth as a developer. Let’s build something impactful together—connect with me to share ideas or explore opportunities!</p>
+---
+
+### 🚀 What I've Built
+
+**NFe Automation** — Desktop application for end-to-end Electronic Invoice processing (directory monitoring, XML validation, batch compression, and API submission), running as a Windows service with automatic failure recovery. **Result:** eliminated hours of daily manual processing.
+
+**Observability Stack** — Deployed Grafana, Loki, Promtail, and Prometheus for centralized logging and AWS server monitoring. Built real-time alert dashboards that reduced failure diagnosis time from hours to minutes and provided direct insights for cloud cost optimization.
+
+Both solutions required rapid learning of technologies outside my academic curriculum — which I consider my key differentiator: the ability to absorb new stacks and deliver quality results in short cycles.
+
+---
+
+### 🎓 Academic Highlight
+
+**Sophos Kodiak** — AI-powered data analysis assistant (corporate challenge). Mobile app featuring Text-to-SQL logic via Google Gemini, converting natural language questions into structured queries, with a chatbot and metrics dashboard.
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <h3>Developer Tools</h3>
-  <img src="https://skillicons.dev/icons?i=arch" height="35" alt="Arch Linux" /> 
-  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="35" alt="Gradle" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" />
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts" height="35" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS" />
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres" height="35" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma" />
+
 </div>
 
+---
+
+### 📚 Currently Learning
+
+I'm deepening my expertise across the JavaScript ecosystem through a structured learning path:
+
+1. ✅ HTML, CSS & JavaScript — Fundamentals
+2. 🔄 React & TypeScript
+3. ⬜ Node.js
+4. ⬜ Next.js
+5. ⬜ PostgreSQL & MongoDB
+
+---
+
+### 🎯 What I'm Looking For
+
+I'm seeking opportunities as a **Junior Developer** — Full Stack, Front-end, or Back-end — within the **JavaScript/TypeScript ecosystem**. Open to on-site (Campinas & São Paulo), remote, or hybrid roles.
+
+---
+
+### 📫 Let's Connect
+
 <div align="center">
-  <h3>Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="35" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.JS" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpbernucio/)
+
 </div>
 
-<div align="center">
-  <h3>Markup Languages</h3>
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=markdown" height="35" alt="Markdown" />
-</div>
+---
 
 <div align="center">
-  <h3>Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" />
-</div>
 
-<div align="center">
-  <h5>Collaboration is what drives great ideas. Reach out and let's create something extraordinary! 😊</h5>
-</div>
-
-<hr>
-
-<div align="center">
   <!-- GitHub Stats Card with light/dark theme -->
   <picture>
     <source 
@@ -84,4 +117,5 @@
       alt="Top Languages"
     />
   </picture>
+
 </div>
