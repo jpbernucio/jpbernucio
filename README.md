@@ -1,20 +1,8 @@
 ## Hi there! 👋
 
-I'm a **Junior Full Stack Developer** specializing in the **JavaScript/TypeScript ecosystem** — React.js, Next.js, Node.js, PostgreSQL, and MongoDB. I hold a degree in [**Multiplatform Software Development**](https://fatecitapira.cps.sp.gov.br/desenvolvimento-de-software-multiplatforma/) from [**FATEC Itapira**](https://www.linkedin.com/school/faculdade-estadual-de-tecnologia-de-itapira-ogari-de-castro-pacheco/).
+I'm a **Junior Full Stack Developer** focused on the **JavaScript/TypeScript ecosystem**. I hold a degree in [**Multiplatform Software Development**](https://fatecitapira.cps.sp.gov.br/desenvolvimento-de-software-multiplatforma/) from [**FATEC Itapira**](https://www.linkedin.com/school/faculdade-estadual-de-tecnologia-de-itapira-ogari-de-castro-pacheco/).
 
-During my internship, I delivered two end-to-end solutions — from zero to production — earning direct recognition from executive leadership for their operational impact.
-
-### 🚀 What I've Built
-
-**NFe Automation** — Desktop application for end-to-end Electronic Invoice processing (directory monitoring, XML validation, batch compression, and API submission), running as a Windows service with automatic failure recovery. **Result:** eliminated hours of daily manual processing.
-
-**Observability Stack** — Deployed Grafana, Loki, Promtail, and Prometheus for centralized logging and AWS server monitoring. Built real-time alert dashboards that reduced failure diagnosis time from hours to minutes and provided direct insights for cloud cost optimization.
-
-Both solutions required rapid learning of technologies outside my academic curriculum — which I consider my key differentiator: the ability to absorb new stacks and deliver quality results in short cycles.
-
-### 🎓 Academic Highlight
-
-**Sophos Kodiak** — AI-powered data analysis assistant (corporate challenge). Mobile app featuring Text-to-SQL logic via Google Gemini, converting natural language questions into structured queries, with a chatbot and metrics dashboard.
+This profile is my portfolio — every project from this journey is published here.
 
 ### 🛠️ Tech Stack
 
@@ -22,12 +10,12 @@ Both solutions required rapid learning of technologies outside my academic curri
 
 **Front-end**
 
+<img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS" />
 <img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript" />
 <img src="https://skillicons.dev/icons?i=ts" height="35" alt="TypeScript" />
 <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js" />
-<img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS" />
 
 **Back-end**
 
@@ -50,7 +38,7 @@ Both solutions required rapid learning of technologies outside my academic curri
 
 ### 📚 Currently Learning
 
-I'm deepening my expertise across the JavaScript ecosystem through a structured learning path:
+Structured learning path across the JavaScript ecosystem:
 
 1. ✅ HTML, CSS & JavaScript — Fundamentals
 2. 🔄 React & TypeScript
@@ -58,11 +46,24 @@ I'm deepening my expertise across the JavaScript ecosystem through a structured 
 4. ⬜ Next.js
 5. ⬜ PostgreSQL & MongoDB
 
-### 🎯 What I'm Looking For
+### 🚀 What I've Built
 
-I'm seeking opportunities as a **Junior Developer** — Full Stack, Front-end, or Back-end — within the **JavaScript/TypeScript ecosystem**. Open to on-site (Campinas & São Paulo), remote, or hybrid roles.
+During my internship, I delivered two end-to-end solutions — from zero to production — earning direct recognition from leadership for operational impact:
 
-### 📫 Let's Connect
+**NFe Automation** — Desktop application for Electronic Invoice processing: directory monitoring, XML validation, batch compression, and API submission. Runs as a Windows service with automatic failure recovery, eliminating hours of daily manual processing.
+
+**Observability Stack** — Grafana, Loki, Promtail, and Prometheus deployment for centralized logging and AWS server monitoring. Real-time alert dashboards that reduced failure diagnosis from hours to minutes.
+
+### 🎓 Academic Highlight
+
+**Sophos Kodiak** — AI-powered data analysis assistant (corporate challenge). Mobile app with Text-to-SQL logic via Google Gemini, converting natural language into structured queries. Includes chatbot interface and metrics dashboard.
+
+### 🎯 Open to Opportunities
+
+Seeking a **Junior Developer** role — Full Stack, Front-end, or Back-end — in the JavaScript/TypeScript ecosystem.
+Available for on-site (Campinas & São Paulo), remote, or hybrid.
+
+### 📫 Contact
 
 <div align="center">
 
