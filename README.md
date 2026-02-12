@@ -1,4 +1,4 @@
-## Hi there! 👋
+### Hi there! 👋
 
 I'm a **Junior Full Stack Developer** focused on the **JavaScript/TypeScript ecosystem**. I hold a degree in [**Multiplatform Software Development**](https://fatecitapira.cps.sp.gov.br/desenvolvimento-de-software-multiplatforma/) from [**FATEC Itapira**](https://www.linkedin.com/school/faculdade-estadual-de-tecnologia-de-itapira-ogari-de-castro-pacheco/).
 
@@ -6,35 +6,21 @@ This profile is my portfolio — every project from this journey is published he
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS" />
-<img src="https://skillicons.dev/icons?i=js" height="35" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=ts" height="35" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="Next.js" />
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
 
 **Back-end**
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js" />
+[![Back-end](https://skillicons.dev/icons?i=nodejs,py)](https://skillicons.dev)
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres" height="35" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="MongoDB" />
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=docker" height="35" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma" />
-
-</div>
+[![Tools](https://skillicons.dev/icons?i=docker,figma,git,github,vscode)](https://skillicons.dev)
 
 ### 📚 Currently Learning
 
@@ -64,7 +50,5 @@ Seeking a **Junior Developer** role — Full Stack, Front-end, or Back-end — i
 Available for on-site (Campinas & São Paulo), remote, or hybrid.
 
 ### 📫 Contact
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpbernucio/)
