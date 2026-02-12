@@ -4,8 +4,6 @@ I'm a **Junior Full Stack Developer** specializing in the **JavaScript/TypeScrip
 
 During my internship, I delivered two end-to-end solutions — from zero to production — earning direct recognition from executive leadership for their operational impact.
 
----
-
 ### 🚀 What I've Built
 
 **NFe Automation** — Desktop application for end-to-end Electronic Invoice processing (directory monitoring, XML validation, batch compression, and API submission), running as a Windows service with automatic failure recovery. **Result:** eliminated hours of daily manual processing.
@@ -14,13 +12,9 @@ During my internship, I delivered two end-to-end solutions — from zero to prod
 
 Both solutions required rapid learning of technologies outside my academic curriculum — which I consider my key differentiator: the ability to absorb new stacks and deliver quality results in short cycles.
 
----
-
 ### 🎓 Academic Highlight
 
 **Sophos Kodiak** — AI-powered data analysis assistant (corporate challenge). Mobile app featuring Text-to-SQL logic via Google Gemini, converting natural language questions into structured queries, with a chatbot and metrics dashboard.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -54,8 +48,6 @@ Both solutions required rapid learning of technologies outside my academic curri
 
 </div>
 
----
-
 ### 📚 Currently Learning
 
 I'm deepening my expertise across the JavaScript ecosystem through a structured learning path:
@@ -66,13 +58,9 @@ I'm deepening my expertise across the JavaScript ecosystem through a structured 
 4. ⬜ Next.js
 5. ⬜ PostgreSQL & MongoDB
 
----
-
 ### 🎯 What I'm Looking For
 
 I'm seeking opportunities as a **Junior Developer** — Full Stack, Front-end, or Back-end — within the **JavaScript/TypeScript ecosystem**. Open to on-site (Campinas & São Paulo), remote, or hybrid roles.
-
----
 
 ### 📫 Let's Connect
 
