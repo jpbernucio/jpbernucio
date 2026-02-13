@@ -1,32 +1,12 @@
+[![tech-stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,postgres,mongodb,docker,figma,git)](https://skillicons.dev)
+
 ### Hey there! 👋
 
 I'm a **Junior Full Stack Developer** focused on the **JavaScript/TypeScript ecosystem**.
 
 🎓 Degree in [**Multiplatform Software Development**](https://fatecitapira.cps.sp.gov.br/desenvolvimento-de-software-multiplatforma/) from [**FATEC Itapira**](https://www.linkedin.com/school/faculdade-estadual-de-tecnologia-de-itapira-ogari-de-castro-pacheco/).
 
-This profile is my portfolio — every project from this journey is published here. New projects weekly.
-
----
-
-### 🛠️ Tech Stack
-
-**Front-end**
-
-[![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
-
-**Back-end**
-
-[![Back-end](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-
-**Databases**
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
-
-**Tools**
-
-[![Tools](https://skillicons.dev/icons?i=docker,figma,git,github,vscode)](https://skillicons.dev)
-
----
+This profile is my living portfolio — every project from this journey is published here. All code is handwritten — no AI-generated code.
 
 ### 📍 Currently Learning
 
@@ -52,7 +32,9 @@ During my internship, I delivered two end-to-end solutions — from zero to prod
 
 ### 🎓 Academic Highlight
 
-**Sophos Kodiak** — AI-powered data analysis assistant built for a corporate challenge. Mobile app with Text-to-SQL logic via Google Gemini, converting natural language into structured database queries. Features chatbot interface and metrics dashboard.
+**[Sophos Kodiak](REPO_LINK)** — AI-powered data analysis assistant built for a corporate challenge. Mobile app with Text-to-SQL logic via Google Gemini, converting natural language into structured database queries. Features chatbot interface and metrics dashboard.
+
+> Built with Flutter, Python, SQLite & Supabase — new projects aligned with JavaScript/TypeScript are on the way.
 
 ---
 
@@ -60,9 +42,3 @@ During my internship, I delivered two end-to-end solutions — from zero to prod
 
 Seeking a **Junior Developer** role — Full Stack, Front-end, or Back-end — in the JavaScript/TypeScript ecosystem.
 Available for on-site (Campinas & São Paulo), remote, or hybrid.
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpbernucio/)
