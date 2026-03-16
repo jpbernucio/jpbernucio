@@ -68,12 +68,6 @@ Implementação de stack completa de observabilidade para centralização de log
 
 ---
 
-<!-- [![João Paulo Bernucio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&hide_border=true&count_private=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![João Paulo Bernucio's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&hide_border=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&theme=github_dark&hide_border=true&langs_count=6#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&theme=default&hide_border=true&langs_count=6#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
--->
-
 <div align="center">
   <picture>
     <source
