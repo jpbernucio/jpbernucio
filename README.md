@@ -66,9 +66,6 @@ Implementação de stack completa de observabilidade para centralização de log
 
 📩 Me envie uma mensagem pelo LinkedIn — estou aberto a conexões e oportunidades.
 
-
-github_dark
-
 ---
 
 <!-- [![João Paulo Bernucio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&hide_border=true&count_private=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
