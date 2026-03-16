@@ -76,13 +76,13 @@ Implementação de stack completa de observabilidade para centralização de log
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&hide_border=true&count_private=true&locale=pt-br&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&hide_border=true&count_private=true&locale=pt-br&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&hide_border=false&count_private=true&locale=pt-br&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&hide_border=false&count_private=true&locale=pt-br&theme=default">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jpbernucio&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Estatísticas do GitHub de João Paulo Bernucio" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&hide_border=true&locale=pt-br&theme=github_dark&langs_count=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&hide_border=true&locale=pt-br&theme=default&langs_count=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&hide_border=false&locale=pt-br&theme=github_dark&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&hide_border=false&locale=pt-br&theme=default&langs_count=8">
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbernucio&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas de João Paulo Bernucio" />
   </picture>
 </div>
